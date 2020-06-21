@@ -11,6 +11,7 @@ https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
 https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
 ## Week 3 Probability
 https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2
+https://www.probabilitycourse.com/
 ## Week 4 Algorithms
 https://www.edx.org/course/algorithm-design-analysis-pennx-sd3x
 
